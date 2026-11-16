@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# aset migrasi WordPress lama (berisi data pribadi), simpan lokal saja
+/_migration_assets/
